@@ -2,7 +2,7 @@
 
 ## 🎮 About Us
 
-At Fungang Entertainment™, we are driven by a shared passion for creating immersive, thrilling, and innovative experiences through our apps and games. Our journey in the world of entertainment began with a simple idea: to bring joy and excitement to people of all ages, across the globe. 🌍🕹️
+At Fungang Entertainment™, we are driven by a shared passion for creating immersive, thrilling, and innovative experiences through our games. Our journey in the world of entertainment began with a simple idea: to bring joy and excitement to people of all ages, across the globe. 🌍🕹️
 
 ## 💻 Explore Our Projects
 
