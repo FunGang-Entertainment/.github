@@ -8,15 +8,9 @@ At Fungang Entertainment™, we are driven by a shared passion for creating imme
 
 Dive into our treasure trove of projects, each crafted with creativity and dedication. Our games transport you to fantastical worlds, challenge your skills, and captivate your imagination. Our apps simplify your life, making everyday tasks a breeze. With a diverse portfolio, there's something for everyone here! 🚀🎉
 
-### Featured Projects:
+## 📰 News:
 
-#### 🚗 TurboRacers - The Ultimate Racing Adventure
-
-Buckle up for heart-pounding action in TurboRacers! Race against friends or AI, customize your dream car, and conquer challenging tracks. Get ready to experience the thrill of high-speed racing! 🏁🏎️
-
-#### 🌟 StellarExplorer - Journey Beyond the Stars
-
-Embark on an intergalactic adventure with StellarExplorer! Explore alien worlds, build your space colony, and uncover the secrets of the universe. Are you ready to boldly go where no one has gone before? 🚀🪐
+#### We are working on our authentication system and will release some games soon!
 
 ## 🥁 Join the Fun
 
