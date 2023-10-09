@@ -10,7 +10,7 @@ Dive into our treasure trove of projects, each crafted with creativity and dedic
 
 ## 📰 News:
 
-#### We are working on our authentication system and will release some games soon!
+### We are working on our authentication system and will release some games soon!
 
 ## 🥁 Join the Fun
 
